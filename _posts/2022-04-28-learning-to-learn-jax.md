@@ -113,7 +113,7 @@ losses, *_ = quadratic_task(w, y, theta, opt_fn=sgd, opt_state=None)
 Plotting `losses` we'll see that, as expected, $f(\theta)$ is minimized over
 time:
 
-![sgd loss plot](/images/sgd_new.png)
+![sgd loss plot](/Weblog/images/sgd_new.png)
 
 ## Adam
 
